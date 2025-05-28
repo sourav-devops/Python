@@ -1,5 +1,5 @@
 
-x = int(input("Enter  number : "))
+x = int(input("Enter any number greater than 2 : "))
 z=1
 if x==1:
         print(" 1 is neither prime nor composite")
