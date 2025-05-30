@@ -14,5 +14,6 @@ else:
 
     if z == 1:
         print("this is a prime number and evryone")       
+        print("we are adding a new bu")       
 
 
