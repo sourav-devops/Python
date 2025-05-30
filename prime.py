@@ -13,7 +13,11 @@ else:
             break
 
     if z == 1:
+
         print("this is a prime number and evryone")       
         print("we are adding a new bu")       
+        print("this is a prime number and evryone")
+        print("this is a new button we are adding")       
+
 
 
