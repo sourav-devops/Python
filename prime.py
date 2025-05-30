@@ -13,6 +13,6 @@ else:
             break
 
     if z == 1:
-        print("prime")       
+        print("prime.")       
 
 
