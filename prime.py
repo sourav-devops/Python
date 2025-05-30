@@ -8,7 +8,7 @@ elif x==2 or x == 3:
 else:
     for i in range(2,int(x**0.5)+1):
         if x%i == 0:
-            print("not prime")
+            print("not prime add button adding this")
             z=0
             break
 
