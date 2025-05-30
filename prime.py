@@ -13,6 +13,6 @@ else:
             break
 
     if z == 1:
-        print("this is a prime number")       
+        print("this is a prime number and evryone")       
 
 
