@@ -1,0 +1,16 @@
+scores = []
+scores.append(21)
+print(scores)
+scores.append(43)
+print(scores)
+scores.append(49)
+print(scores)
+scores.append(15)
+print(scores)
+scores.append(99)
+print(scores)
+scores.sort()
+print(scores)
+print("the bottom 3 lowest scores are:")
+for score in scores[:3]:
+    print(score)
